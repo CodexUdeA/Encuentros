@@ -1,6 +1,6 @@
 # Ideas para charlas 💡
 
-Quieres dar una charla y aún no sabes sobre que tema? A continuación te compartimos algunas ideas:
+¿Quieres dar una charla y aún no sabes sobre qué tema? A continuación te compartimos algunas ideas:
 
 ### HTML
 
@@ -42,4 +42,4 @@ Quieres dar una charla y aún no sabes sobre que tema? A continuación te compar
 - Git
 - Websockets
 
-Se te ocurre algo mas? Dejanos tu PR aportando tus ideas para charlas! 🤓
+¿Se te ocurre algo más? ¡Déjanos tu **PR** aportando tus ideas para charlas! 🤓
